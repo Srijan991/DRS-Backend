@@ -1,0 +1,16 @@
+{
+  "name": "insightloop-be",
+  "version": "1.0.0",
+  "description": "A second brain for developers, researchers, and lifelong learners. InsightLoop helps users capture, organize, and retrieve knowledge from articles, videos, notes, and code snippets — with AI-enhanced summarization, tagging, and semantic search.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.11"
+  }
+}
