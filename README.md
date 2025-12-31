@@ -1,1 +1,7 @@
-The system supports document submission, AI-assisted review, approval workflows, and publishing into a centralized knowledge base. AI enhances every stage — from auto-summaries and compliance checks to semantic search and answer generation using vector databases and RAG
+# DRS Backend
+
+The system supports document submission, AI-assisted review, approval workflows,
+and publishing into a centralized knowledge base.
+
+AI enhances every stage — from auto-summaries and compliance checks to semantic search
+and answer generation using vector databases and RAG.
